@@ -122,10 +122,10 @@ h2 {
   display: flex;
   align-items: flex-start;
   margin-bottom: 1.5rem;
-  background: #dc97f8;
+  background: #daafeb;
   padding: 25px;
   border-radius: 15px;
-  border: 1px solid #a7aff5;
+  border: 1px solid #f5bef5;
 }
 
 .alert-icon {
